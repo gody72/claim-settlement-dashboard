@@ -1,0 +1,12 @@
+name: claim-settlement-dashboard
+title: claim-settlement-dashboard
+username: gody-wambete
+account: gody-wambete
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15155678
+bundleId: 10720542
+url: https://gody-wambete.shinyapps.io/claim-settlement-dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

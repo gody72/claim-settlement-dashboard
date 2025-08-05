@@ -1,0 +1,7 @@
+library(rsconnect)
+rsconnect::setAccountInfo(name = "gody-wambete", 
+                          token = "D535B927BE725D91EDAF11B91EC56F01", 
+                          secret = "+Bw1mWpZx6JxaqjMjD+C9QVM5cwLh0/u5+GfLb+c")
+rsconnect::deployApp("/home/godfrey/Desktop/Projects/claim-settlement-dashboard")
+
+
